@@ -1,0 +1,1 @@
+Run steamlit apps with `streamlit run app.py`
